@@ -1,6 +1,8 @@
 target
 activemq-data
 data/*
+data/
+out/
 .idea
 *.i??
 .classpath

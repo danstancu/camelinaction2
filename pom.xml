@@ -51,7 +51,7 @@
   </modules>
 
   <scm>
-    <url>https://github.com/camelinaction/camelinaction2</url>
+    <url>https://github.com/danstancu/camelinaction2</url>
   </scm>
 
   <properties>
@@ -373,6 +373,11 @@
         <groupId>org.apache.mina</groupId>
         <artifactId>mina-core</artifactId>
         <version>2.0.9</version>
+      </dependency>
+      <dependency>
+        <groupId>com.sun.activation</groupId>
+        <artifactId>javax.activation</artifactId>
+        <version>1.2.0</version>
       </dependency>
     </dependencies>
 
